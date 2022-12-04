@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Circe;
+    src: url(../fonts/Circe.otf);
+   }
+
+body {
+    font-family: Circe;
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+main {
+    display: flex;
+}
+
+h1, h2 {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 20px;
+    margin: 5px 0;
+}

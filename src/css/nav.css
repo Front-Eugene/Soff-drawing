@@ -1,0 +1,22 @@
+.navigation {
+    width: 300px;
+    height: calc(100vh - 50px);
+    padding: 10px 0 0 10px;
+    background: rgb(0, 29, 61);
+}
+
+.nav-wrap {
+    width: 100%;
+    min-height: 100px;
+    margin: 10px 0;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    margin: 0 0 10px 0;
+    border-radius: 20px;
+    cursor: pointer;
+}
